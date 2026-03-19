@@ -43,3 +43,15 @@ An outlier of this data are the Chicago Bears, who posted the second highest rus
 ### 4. Passing EPA vs Rushing EPA Correlation
 <img width="731" height="269" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/23d7a831-d9db-48fe-814e-3afca458e17a" />
 
+The correlation coefficient between Passing EPA and Rushing EPA is 0.296578 which indicates that while there is a **weak positive relationship** between the two metrics. So, yes teams that are good at passing tend to me somewhat good at rushing, but this relationship isn't consistent. For one, the Minnesota Vikings, who won 14 games, have one of the best Passing EPAs, have one of the worst Rushing EPAs, showing that this is a pass-heavy team.
+
+## Final Takeaways
+1. Teams that are effective at passing the ball, tend to be affective at running it as well, probably due to the defense focusing on stopping explosive passes, leaving the offense more room to run the ball.
+2. Passing EPA seems to be the more important metric as it provides more expected Expected Points Added than rushing. However, teams should still make it a point to run the ball in order to get easy yards and keep the defense honest. In this way the passing game sets up the running game 
+3. Teams should make it a priority to have a good passing and rushing offense. The teams that suceeded in both not only made the ployoffs, but also made deep playoff runs. Something general managers and coaches should take into account when buildng their teams.
+
+## Conclusion
+When building teams, and strategising for the offense, one thing s blatantly obvious, **balance is key**. In the strategic and physical beautiful game that is the National Football League, the team that is able to find this balance in the passing and rushing game, gives themselves the best chance to win a Vince Lombardi trophy.
+
+## References
+_Eric A. Eager and Richard A. Erickson (2023) Football Analytics with Python & R. Sebastopol, CA: O’Reilly Media._
