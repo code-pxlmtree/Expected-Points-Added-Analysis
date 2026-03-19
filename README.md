@@ -11,7 +11,7 @@ Expected points added is a metric in American Football analytics for calculating
 The data was imported from the nfl_data_py library which is available on Jupyter Notebook. The library can be installed using the command prompt: _pip install nfl_data_py_.
 
 ### Data Cleaning
-After importing the data. I made sure to choose only the data that was necessary for my analysis. Code is available in the passing_epa_vs_rushing_epa_ipynb attached to this repository.
+After importing the data. I queried for passing and rushing plays that were not null and aggregated by the average passing and rushing epaa. Code is available in the passing_epa_vs_rushing_epa_ipynb attached to this repository.
 
 ### 1. Passing EPA vs Rushing EPA
 
@@ -29,7 +29,7 @@ Now we have more context to the data as we see exactly which teams have an above
 <img width="1542" height="737" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/f04788a0-c05f-4e98-bbee-26db476da79a" />
 image credit: https://www.nfl.com/standings/league/2022/reg
 
-One thing that jumps off the page, of the top 6 teams via win/loss record, 5 of them we mentioned prior as being above average in Passing EPA and Rushing EPA. The top 2, Kansas City Chiefs and Philadelphia Eagles, ended up being in the SuperBowl, with the Chiefs being victorious. So this clearly indicates that if your team is above average in both metrics, your team will perform very well, something coaches and general managers should take note of.
+One thing that jumps off the page, of the top 6 teams via win/loss record, 5 of them we mentioned prior as being above average in Passing EPA and Rushing EPA. The top 2, Kansas City Chiefs and Philadelphia Eagles, ended up being in the SuperBowl, with the Chiefs being victorious. So this indicates that if your team is above average in both metrics, chances are your team will perform very well.
 
 The only outlier in the group we mentioned are the Miami Dolphins. They made the playoffs, however they only had a record of 9 wins and 8 losses, with a point differential of -2. This indicates two possible scenarios, 1. The team had a bad defense that cannot prevent opposing offenses from scoring, thus offseting the Dolphins' offenses prowess. 2. The offense, though very potent in the Passing and Rushing EPA metrics, do not score enough in close games.
 
@@ -50,8 +50,13 @@ The correlation coefficient between Passing EPA and Rushing EPA is 0.296578 whic
 2. Passing EPA seems to be the more important metric as it provides more expected Expected Points Added than rushing. However, teams should still make it a point to run the ball in order to get easy yards and keep the defense honest. In this way the passing game sets up the running game.
 3. Teams should make it a priority to have a good passing and rushing offense. The teams that succeeded in both metrics not only made the playoffs, but also made deep playoff runs. Something general managers and coaches should take into account when buildng their teams.
 
+## Methodology
+- Aggregated EPA at team level using mean EPA per play
+- Filtered for offensive plays only
+- Correlation calculated using Pearson correlation coefficient
+
 ## Conclusion
-When building teams, and strategising for the offense gameplan, one thing is blatantly obvious, **balance is key**. In the strategic and physical beautiful game that is the National Football League, the team that is able to find this balance in the passing and rushing game, gives themselves the best chance to win a Vince Lombardi trophy.
+When building teams, and strategising for the offense gameplan, one thing is blatantly obvious, **balance is key**. In the strategic and physical game that is the National Football League, the team that is able to find this balance in the passing and rushing game, gives themselves the best chance to win a Vince Lombardi trophy.
 
 ## References
 _Eric A. Eager and Richard A. Erickson (2023) Football Analytics with Python & R. Sebastopol, CA: O’Reilly Media._
