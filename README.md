@@ -24,7 +24,22 @@ Here is a graph allocating the teams to their designated plot in the data:
 
 <img width="1082" height="760" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/fd8e0e66-ddb9-4c47-b450-21175d638c60" />
 
-Now we have more contect to the data as we see exactly which teams have an above average Passing EPA/Rushing EPA and which teams do not. There are 6 teams in the top right quadrant. These are the only teams in the league with above average figures in both metrics. These teams are the Kansas City Chiefs, San Francisco 49ers, Cincinati Bengals, Buffalo Bills, Philedelphia Eagles and the Miami Dolpins. Let us look at if these potent offenses helped translate these good offensive numbers into wins for their respective teams
+Now we have more contect to the data as we see exactly which teams have an above average Passing EPA/Rushing EPA and which teams do not. There are 6 teams in the top right quadrant. These are the only teams in the league with above average figures in both metrics. These teams are the Kansas City Chiefs, San Francisco 49ers, Cincinati Bengals, Buffalo Bills, Philadelphia Eagles and the Miami Dolpins. Let us look at if these potent offenses helped translate these good offensive numbers into wins for their respective teams.
 
 <img width="1542" height="737" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/f04788a0-c05f-4e98-bbee-26db476da79a" />
 image credit: https://www.nfl.com/standings/league/2022/reg
+
+One thing that just jumps off the page, of the top 6 teams via win/loss record, 5 of them we mentioned prior as being above average in Passing EPA and Rushing EPA. The top 2, Kansas City Chiefs and Philadelphia Eagles, ended up being in the SuperBowl, with the Chiefs being victorious. So this clearly indicates that if your team is above average in both metrics, your team will perform very well, something coaches and GMs should take note of.
+
+The only outlier in the group we mentioned are the Miami Dolphins. They made the playoffs, however they only had a record of 9 wins and 8 losses. With a point differential of -2. This indicates two possible scenarios, 1. The team has a bad defense that cannot prevent opposing offenses from scoring, thus offseting the Dolphin's offenses prowess. 2. The offense, though very potent in the Passing and Rushing EPA metrics, do not score enough in close games.
+
+Graphic Key Note:
+- "xz" - means the team clinched a playoff berth via winning their division
+- "xy" - means the team clinched a playoff berth via wildcard
+
+### 3. Data Outliers
+An outlier of this data are the Chicago Bears, who posted the second highest rushing EPA, yet have a negative passing EPA. One way to explain this could be that the team is solely dependent on their running game because they don't have a competent throwing quarterback, thus inflating the runnng numbers.
+
+### 4. Passing EPA vs Rushing EPA Correlation
+<img width="731" height="269" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/23d7a831-d9db-48fe-814e-3afca458e17a" />
+
