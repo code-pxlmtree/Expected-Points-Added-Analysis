@@ -11,7 +11,7 @@ Expected points added is a metric in American Football analytics for calculating
 The data was imported from the nfl_data_py library which is available on Jupyter Notebook. The library can be installed using the command prompt: _pip install nfl_data_py_.
 
 ### Data Cleaning
-After importing the data. I queried for passing and rushing plays that were not null and aggregated by the average passing and rushing epaa. Code is available in the passing_epa_vs_rushing_epa_ipynb attached to this repository.
+After importing the data. I queried for passing and rushing plays that were not null and aggregated by the average passing and rushing epa. Code is available in the passing_epa_vs_rushing_epa_ipynb attached to this repository.
 
 ### 1. Passing EPA vs Rushing EPA
 
