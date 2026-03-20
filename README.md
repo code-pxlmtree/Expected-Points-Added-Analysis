@@ -32,7 +32,7 @@ image credit: https://www.nfl.com/standings/league/2022/reg
 
 One thing that jumps off the page, of the top 6 teams via win/loss record, 5 of them we mentioned prior as being above average in Passing EPA and Rushing EPA. The top 2, Kansas City Chiefs and Philadelphia Eagles, ended up being in the SuperBowl, with the Chiefs being victorious. So this indicates that if your team is above average in both metrics, chances are your team will perform very well.
 
-The only outlier in the group we mentioned are the Miami Dolphins. They made the playoffs, however they only had a record of 9 wins and 8 losses, with a point differential of -2. This indicates two possible scenarios, 1. The team had a bad defense that cannot prevent opposing offenses from scoring, thus offseting the Dolphins' offenses prowess. 2. The offense, though very potent in the Passing and Rushing EPA metrics, do not score enough in close games.
+The only outlier in the group we mentioned are the Miami Dolphins. They made the playoffs, however they only had a record of 9 wins and 8 losses, with a point differential of -2. This indicates two possible scenarios, 1. The team had a bad defense that cannot prevent opposing offenses from scoring, thus offseting the Dolphins' offensive prowess. 2. The offense, though very potent in the Passing and Rushing EPA metrics, do not score enough in order to win in close games.
 
 Graphic Key Note:
 - "xz" - means the team clinched a playoff berth via winning their division
