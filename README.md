@@ -25,7 +25,7 @@ Here is a graph allocating the teams to their designated plot in the data:
 <img width="1200" height="627" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/08707006-bdfd-4bb1-b5a8-e378c3522e09" />
 
 
-Now we have more context to the data as we see exactly which teams have an above average Passing EPA/Rushing EPA and which teams do not. There are 6 teams in the top right quadrant. These are the only teams in the league with above average figures in both metrics. These teams are the Kansas City Chiefs, San Francisco 49ers, Cincinati Bengals, Buffalo Bills, Philadelphia Eagles and the Miami Dolphins. Let us look at if these potent offenses helped translate these good offensive numbers into wins for their respective teams.
+Now we have more context to the data as we see exactly which teams have an above average Passing EPA/Rushing EPA and which teams do not. There are 6 teams in the top right quadrant. These are the only teams in the league with above average figures in both metrics. These teams are the Kansas City Chiefs, San Francisco 49ers, Cincinnati Bengals, Buffalo Bills, Philadelphia Eagles and the Miami Dolphins. Let us look at if these potent offenses helped translate these good offensive numbers into wins for their respective teams.
 
 <img width="1542" height="737" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/f04788a0-c05f-4e98-bbee-26db476da79a" />
 image credit: https://www.nfl.com/standings/league/2022/reg
