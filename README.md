@@ -22,7 +22,8 @@ We clearly see that the relationship between Passing EPA and Rushing EPA is posi
 ### 2. High Passing EPA/High Rushing EPA Team Performance
 Here is a graph allocating the teams to their designated plot in the data:
 
-<img width="1082" height="760" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/fd8e0e66-ddb9-4c47-b450-21175d638c60" />
+<img width="1200" height="627" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/08707006-bdfd-4bb1-b5a8-e378c3522e09" />
+
 
 Now we have more context to the data as we see exactly which teams have an above average Passing EPA/Rushing EPA and which teams do not. There are 6 teams in the top right quadrant. These are the only teams in the league with above average figures in both metrics. These teams are the Kansas City Chiefs, San Francisco 49ers, Cincinati Bengals, Buffalo Bills, Philadelphia Eagles and the Miami Dolphins. Let us look at if these potent offenses helped translate these good offensive numbers into wins for their respective teams.
 
